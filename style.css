@@ -14,3 +14,12 @@
     border-bottom: 7px dashed yellow;
     border-left: 7px solid black;
 }
+.set-1{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    color: white;
+    margin: 20px 50px;
+    border: 5px solid red;
+    padding: 10px;
+}
