@@ -4,3 +4,13 @@
     width: 300px;
     padding: 50px 30px 30px 30px;
 }
+.test-1{
+    background-color: lime;
+    height: 400px;
+    width: 500px;
+    margin: 150px 850px;
+    border-top: 7px solid red;
+    border-right: 7px dotted blue;
+    border-bottom: 7px dashed yellow;
+    border-left: 7px solid black;
+}
